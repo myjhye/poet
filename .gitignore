@@ -1,0 +1,10 @@
+# .gitignore 파일 내용
+
+# 환경 설정 파일
+.env
+
+# Node.js 모듈 폴더
+node_modules/
+
+# 로그 파일
+*.log
